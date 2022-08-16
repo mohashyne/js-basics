@@ -1,0 +1,1 @@
+// HTML and javascript separation of content from behavior
